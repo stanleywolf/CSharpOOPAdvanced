@@ -1,0 +1,11 @@
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\04.GenericdExercise\08.CustomListSorted\bin\Debug\netcoreapp2.0\08.CustomListSorted.deps.json
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\04.GenericdExercise\08.CustomListSorted\bin\Debug\netcoreapp2.0\08.CustomListSorted.runtimeconfig.json
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\04.GenericdExercise\08.CustomListSorted\bin\Debug\netcoreapp2.0\08.CustomListSorted.runtimeconfig.dev.json
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\04.GenericdExercise\08.CustomListSorted\bin\Debug\netcoreapp2.0\08.CustomListSorted.dll
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\04.GenericdExercise\08.CustomListSorted\bin\Debug\netcoreapp2.0\08.CustomListSorted.pdb
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\04.GenericdExercise\08.CustomListSorted\obj\Debug\netcoreapp2.0\08.CustomListSorted.csproj.CoreCompileInputs.cache
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\04.GenericdExercise\08.CustomListSorted\obj\Debug\netcoreapp2.0\08.CustomListSorted.AssemblyInfoInputs.cache
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\04.GenericdExercise\08.CustomListSorted\obj\Debug\netcoreapp2.0\08.CustomListSorted.AssemblyInfo.cs
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\04.GenericdExercise\08.CustomListSorted\obj\Debug\netcoreapp2.0\08.CustomListSorted.dll
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\04.GenericdExercise\08.CustomListSorted\obj\Debug\netcoreapp2.0\08.CustomListSorted.pdb
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\04.GenericdExercise\08.CustomListSorted\obj\Debug\netcoreapp2.0\08.CustomListSorted.csprojResolveAssemblyReference.cache

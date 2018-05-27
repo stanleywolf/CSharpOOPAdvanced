@@ -1,0 +1,11 @@
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\06.IteratorsAndComparatorsExercise\05.ComparingObject\bin\Debug\netcoreapp2.0\05.ComparingObject.deps.json
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\06.IteratorsAndComparatorsExercise\05.ComparingObject\bin\Debug\netcoreapp2.0\05.ComparingObject.runtimeconfig.json
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\06.IteratorsAndComparatorsExercise\05.ComparingObject\bin\Debug\netcoreapp2.0\05.ComparingObject.runtimeconfig.dev.json
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\06.IteratorsAndComparatorsExercise\05.ComparingObject\bin\Debug\netcoreapp2.0\05.ComparingObject.dll
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\06.IteratorsAndComparatorsExercise\05.ComparingObject\bin\Debug\netcoreapp2.0\05.ComparingObject.pdb
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\06.IteratorsAndComparatorsExercise\05.ComparingObject\obj\Debug\netcoreapp2.0\05.ComparingObject.csprojResolveAssemblyReference.cache
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\06.IteratorsAndComparatorsExercise\05.ComparingObject\obj\Debug\netcoreapp2.0\05.ComparingObject.csproj.CoreCompileInputs.cache
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\06.IteratorsAndComparatorsExercise\05.ComparingObject\obj\Debug\netcoreapp2.0\05.ComparingObject.AssemblyInfoInputs.cache
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\06.IteratorsAndComparatorsExercise\05.ComparingObject\obj\Debug\netcoreapp2.0\05.ComparingObject.AssemblyInfo.cs
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\06.IteratorsAndComparatorsExercise\05.ComparingObject\obj\Debug\netcoreapp2.0\05.ComparingObject.dll
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\06.IteratorsAndComparatorsExercise\05.ComparingObject\obj\Debug\netcoreapp2.0\05.ComparingObject.pdb

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2003
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Travel", "Travel\Travel.csproj", "{AC27DDD7-8EB4-4271-983F-6EC224CD4259}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Travel.Tests", "Travel.Tests\Travel.Tests.csproj", "{7318CFAF-6FDD-45AC-B243-80074A51018B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AC27DDD7-8EB4-4271-983F-6EC224CD4259}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC27DDD7-8EB4-4271-983F-6EC224CD4259}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC27DDD7-8EB4-4271-983F-6EC224CD4259}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC27DDD7-8EB4-4271-983F-6EC224CD4259}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7318CFAF-6FDD-45AC-B243-80074A51018B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7318CFAF-6FDD-45AC-B243-80074A51018B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7318CFAF-6FDD-45AC-B243-80074A51018B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7318CFAF-6FDD-45AC-B243-80074A51018B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F39F4D7F-DCC6-44AD-808A-A23B2076D0AE}
+	EndGlobalSection
+EndGlobal

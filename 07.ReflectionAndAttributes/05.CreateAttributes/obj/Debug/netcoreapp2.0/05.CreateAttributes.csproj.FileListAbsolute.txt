@@ -1,0 +1,10 @@
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\07.ReflectionAndAttributes\05.CreateAttributes\bin\Debug\netcoreapp2.0\05.CreateAttributes.deps.json
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\07.ReflectionAndAttributes\05.CreateAttributes\bin\Debug\netcoreapp2.0\05.CreateAttributes.runtimeconfig.json
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\07.ReflectionAndAttributes\05.CreateAttributes\bin\Debug\netcoreapp2.0\05.CreateAttributes.runtimeconfig.dev.json
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\07.ReflectionAndAttributes\05.CreateAttributes\bin\Debug\netcoreapp2.0\05.CreateAttributes.dll
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\07.ReflectionAndAttributes\05.CreateAttributes\bin\Debug\netcoreapp2.0\05.CreateAttributes.pdb
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\07.ReflectionAndAttributes\05.CreateAttributes\obj\Debug\netcoreapp2.0\05.CreateAttributes.csproj.CoreCompileInputs.cache
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\07.ReflectionAndAttributes\05.CreateAttributes\obj\Debug\netcoreapp2.0\05.CreateAttributes.AssemblyInfoInputs.cache
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\07.ReflectionAndAttributes\05.CreateAttributes\obj\Debug\netcoreapp2.0\05.CreateAttributes.AssemblyInfo.cs
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\07.ReflectionAndAttributes\05.CreateAttributes\obj\Debug\netcoreapp2.0\05.CreateAttributes.dll
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\07.ReflectionAndAttributes\05.CreateAttributes\obj\Debug\netcoreapp2.0\05.CreateAttributes.pdb

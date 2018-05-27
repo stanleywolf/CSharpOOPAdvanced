@@ -1,0 +1,11 @@
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\04.GenericdExercise\01.GenericBox\bin\Debug\netcoreapp2.0\01.GenericBox.deps.json
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\04.GenericdExercise\01.GenericBox\bin\Debug\netcoreapp2.0\01.GenericBox.runtimeconfig.json
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\04.GenericdExercise\01.GenericBox\bin\Debug\netcoreapp2.0\01.GenericBox.runtimeconfig.dev.json
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\04.GenericdExercise\01.GenericBox\bin\Debug\netcoreapp2.0\01.GenericBox.dll
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\04.GenericdExercise\01.GenericBox\bin\Debug\netcoreapp2.0\01.GenericBox.pdb
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\04.GenericdExercise\01.GenericBox\obj\Debug\netcoreapp2.0\01.GenericBox.csproj.CoreCompileInputs.cache
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\04.GenericdExercise\01.GenericBox\obj\Debug\netcoreapp2.0\01.GenericBox.AssemblyInfoInputs.cache
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\04.GenericdExercise\01.GenericBox\obj\Debug\netcoreapp2.0\01.GenericBox.AssemblyInfo.cs
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\04.GenericdExercise\01.GenericBox\obj\Debug\netcoreapp2.0\01.GenericBox.dll
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\04.GenericdExercise\01.GenericBox\obj\Debug\netcoreapp2.0\01.GenericBox.pdb
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\04.GenericdExercise\01.GenericBox\obj\Debug\netcoreapp2.0\01.GenericBox.csprojResolveAssemblyReference.cache

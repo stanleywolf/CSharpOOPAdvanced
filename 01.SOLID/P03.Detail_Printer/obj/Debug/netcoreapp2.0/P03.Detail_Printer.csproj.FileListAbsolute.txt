@@ -1,0 +1,11 @@
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\01.SOLID\P03.Detail_Printer\bin\Debug\netcoreapp2.0\P03.Detail_Printer.deps.json
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\01.SOLID\P03.Detail_Printer\bin\Debug\netcoreapp2.0\P03.Detail_Printer.runtimeconfig.json
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\01.SOLID\P03.Detail_Printer\bin\Debug\netcoreapp2.0\P03.Detail_Printer.runtimeconfig.dev.json
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\01.SOLID\P03.Detail_Printer\bin\Debug\netcoreapp2.0\P03.Detail_Printer.dll
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\01.SOLID\P03.Detail_Printer\bin\Debug\netcoreapp2.0\P03.Detail_Printer.pdb
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\01.SOLID\P03.Detail_Printer\obj\Debug\netcoreapp2.0\P03.Detail_Printer.csprojResolveAssemblyReference.cache
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\01.SOLID\P03.Detail_Printer\obj\Debug\netcoreapp2.0\P03.Detail_Printer.csproj.CoreCompileInputs.cache
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\01.SOLID\P03.Detail_Printer\obj\Debug\netcoreapp2.0\P03.Detail_Printer.AssemblyInfoInputs.cache
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\01.SOLID\P03.Detail_Printer\obj\Debug\netcoreapp2.0\P03.Detail_Printer.AssemblyInfo.cs
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\01.SOLID\P03.Detail_Printer\obj\Debug\netcoreapp2.0\P03.Detail_Printer.dll
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\01.SOLID\P03.Detail_Printer\obj\Debug\netcoreapp2.0\P03.Detail_Printer.pdb

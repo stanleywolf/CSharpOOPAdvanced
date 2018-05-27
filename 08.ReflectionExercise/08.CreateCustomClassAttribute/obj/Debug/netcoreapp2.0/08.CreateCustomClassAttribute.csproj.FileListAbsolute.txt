@@ -1,0 +1,11 @@
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\08.ReflectionExercise\08.CreateCustomClassAttribute\bin\Debug\netcoreapp2.0\08.CreateCustomClassAttribute.deps.json
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\08.ReflectionExercise\08.CreateCustomClassAttribute\bin\Debug\netcoreapp2.0\08.CreateCustomClassAttribute.runtimeconfig.json
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\08.ReflectionExercise\08.CreateCustomClassAttribute\bin\Debug\netcoreapp2.0\08.CreateCustomClassAttribute.runtimeconfig.dev.json
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\08.ReflectionExercise\08.CreateCustomClassAttribute\bin\Debug\netcoreapp2.0\08.CreateCustomClassAttribute.dll
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\08.ReflectionExercise\08.CreateCustomClassAttribute\bin\Debug\netcoreapp2.0\08.CreateCustomClassAttribute.pdb
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\08.ReflectionExercise\08.CreateCustomClassAttribute\obj\Debug\netcoreapp2.0\08.CreateCustomClassAttribute.csprojResolveAssemblyReference.cache
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\08.ReflectionExercise\08.CreateCustomClassAttribute\obj\Debug\netcoreapp2.0\08.CreateCustomClassAttribute.csproj.CoreCompileInputs.cache
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\08.ReflectionExercise\08.CreateCustomClassAttribute\obj\Debug\netcoreapp2.0\08.CreateCustomClassAttribute.AssemblyInfoInputs.cache
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\08.ReflectionExercise\08.CreateCustomClassAttribute\obj\Debug\netcoreapp2.0\08.CreateCustomClassAttribute.AssemblyInfo.cs
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\08.ReflectionExercise\08.CreateCustomClassAttribute\obj\Debug\netcoreapp2.0\08.CreateCustomClassAttribute.dll
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\08.ReflectionExercise\08.CreateCustomClassAttribute\obj\Debug\netcoreapp2.0\08.CreateCustomClassAttribute.pdb

@@ -1,0 +1,11 @@
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\12.ObjectCommunicationsAndEventsexercise\03.DependencyInversion\bin\Debug\netcoreapp2.0\03.DependencyInversion.deps.json
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\12.ObjectCommunicationsAndEventsexercise\03.DependencyInversion\bin\Debug\netcoreapp2.0\03.DependencyInversion.runtimeconfig.json
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\12.ObjectCommunicationsAndEventsexercise\03.DependencyInversion\bin\Debug\netcoreapp2.0\03.DependencyInversion.runtimeconfig.dev.json
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\12.ObjectCommunicationsAndEventsexercise\03.DependencyInversion\bin\Debug\netcoreapp2.0\03.DependencyInversion.dll
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\12.ObjectCommunicationsAndEventsexercise\03.DependencyInversion\bin\Debug\netcoreapp2.0\03.DependencyInversion.pdb
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\12.ObjectCommunicationsAndEventsexercise\03.DependencyInversion\obj\Debug\netcoreapp2.0\03.DependencyInversion.csproj.CoreCompileInputs.cache
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\12.ObjectCommunicationsAndEventsexercise\03.DependencyInversion\obj\Debug\netcoreapp2.0\03.DependencyInversion.AssemblyInfoInputs.cache
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\12.ObjectCommunicationsAndEventsexercise\03.DependencyInversion\obj\Debug\netcoreapp2.0\03.DependencyInversion.AssemblyInfo.cs
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\12.ObjectCommunicationsAndEventsexercise\03.DependencyInversion\obj\Debug\netcoreapp2.0\03.DependencyInversion.dll
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\12.ObjectCommunicationsAndEventsexercise\03.DependencyInversion\obj\Debug\netcoreapp2.0\03.DependencyInversion.pdb
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\12.ObjectCommunicationsAndEventsexercise\03.DependencyInversion\obj\Debug\netcoreapp2.0\03.DependencyInversion.csprojResolveAssemblyReference.cache

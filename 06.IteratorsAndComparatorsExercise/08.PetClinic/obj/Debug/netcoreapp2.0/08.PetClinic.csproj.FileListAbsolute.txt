@@ -1,0 +1,11 @@
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\06.IteratorsAndComparatorsExercise\08.PetClinic\bin\Debug\netcoreapp2.0\08.PetClinic.deps.json
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\06.IteratorsAndComparatorsExercise\08.PetClinic\bin\Debug\netcoreapp2.0\08.PetClinic.runtimeconfig.json
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\06.IteratorsAndComparatorsExercise\08.PetClinic\bin\Debug\netcoreapp2.0\08.PetClinic.runtimeconfig.dev.json
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\06.IteratorsAndComparatorsExercise\08.PetClinic\bin\Debug\netcoreapp2.0\08.PetClinic.dll
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\06.IteratorsAndComparatorsExercise\08.PetClinic\bin\Debug\netcoreapp2.0\08.PetClinic.pdb
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\06.IteratorsAndComparatorsExercise\08.PetClinic\obj\Debug\netcoreapp2.0\08.PetClinic.csprojResolveAssemblyReference.cache
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\06.IteratorsAndComparatorsExercise\08.PetClinic\obj\Debug\netcoreapp2.0\08.PetClinic.csproj.CoreCompileInputs.cache
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\06.IteratorsAndComparatorsExercise\08.PetClinic\obj\Debug\netcoreapp2.0\08.PetClinic.AssemblyInfoInputs.cache
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\06.IteratorsAndComparatorsExercise\08.PetClinic\obj\Debug\netcoreapp2.0\08.PetClinic.AssemblyInfo.cs
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\06.IteratorsAndComparatorsExercise\08.PetClinic\obj\Debug\netcoreapp2.0\08.PetClinic.dll
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\06.IteratorsAndComparatorsExercise\08.PetClinic\obj\Debug\netcoreapp2.0\08.PetClinic.pdb

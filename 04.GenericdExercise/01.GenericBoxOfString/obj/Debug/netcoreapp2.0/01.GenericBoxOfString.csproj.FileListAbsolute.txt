@@ -1,0 +1,11 @@
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\04.GenericdExercise\01.GenericBoxOfString\bin\Debug\netcoreapp2.0\01.GenericBoxOfString.deps.json
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\04.GenericdExercise\01.GenericBoxOfString\bin\Debug\netcoreapp2.0\01.GenericBoxOfString.runtimeconfig.json
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\04.GenericdExercise\01.GenericBoxOfString\bin\Debug\netcoreapp2.0\01.GenericBoxOfString.runtimeconfig.dev.json
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\04.GenericdExercise\01.GenericBoxOfString\bin\Debug\netcoreapp2.0\01.GenericBoxOfString.dll
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\04.GenericdExercise\01.GenericBoxOfString\bin\Debug\netcoreapp2.0\01.GenericBoxOfString.pdb
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\04.GenericdExercise\01.GenericBoxOfString\obj\Debug\netcoreapp2.0\01.GenericBoxOfString.csprojResolveAssemblyReference.cache
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\04.GenericdExercise\01.GenericBoxOfString\obj\Debug\netcoreapp2.0\01.GenericBoxOfString.csproj.CoreCompileInputs.cache
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\04.GenericdExercise\01.GenericBoxOfString\obj\Debug\netcoreapp2.0\01.GenericBoxOfString.AssemblyInfoInputs.cache
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\04.GenericdExercise\01.GenericBoxOfString\obj\Debug\netcoreapp2.0\01.GenericBoxOfString.AssemblyInfo.cs
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\04.GenericdExercise\01.GenericBoxOfString\obj\Debug\netcoreapp2.0\01.GenericBoxOfString.dll
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\04.GenericdExercise\01.GenericBoxOfString\obj\Debug\netcoreapp2.0\01.GenericBoxOfString.pdb

@@ -1,0 +1,10 @@
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\04.GenericdExercise\06.GenericCountInteger\bin\Debug\netcoreapp2.0\06.GenericCountInteger.deps.json
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\04.GenericdExercise\06.GenericCountInteger\bin\Debug\netcoreapp2.0\06.GenericCountInteger.runtimeconfig.json
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\04.GenericdExercise\06.GenericCountInteger\bin\Debug\netcoreapp2.0\06.GenericCountInteger.runtimeconfig.dev.json
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\04.GenericdExercise\06.GenericCountInteger\bin\Debug\netcoreapp2.0\06.GenericCountInteger.dll
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\04.GenericdExercise\06.GenericCountInteger\bin\Debug\netcoreapp2.0\06.GenericCountInteger.pdb
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\04.GenericdExercise\06.GenericCountInteger\obj\Debug\netcoreapp2.0\06.GenericCountInteger.csproj.CoreCompileInputs.cache
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\04.GenericdExercise\06.GenericCountInteger\obj\Debug\netcoreapp2.0\06.GenericCountInteger.AssemblyInfoInputs.cache
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\04.GenericdExercise\06.GenericCountInteger\obj\Debug\netcoreapp2.0\06.GenericCountInteger.AssemblyInfo.cs
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\04.GenericdExercise\06.GenericCountInteger\obj\Debug\netcoreapp2.0\06.GenericCountInteger.dll
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\04.GenericdExercise\06.GenericCountInteger\obj\Debug\netcoreapp2.0\06.GenericCountInteger.pdb

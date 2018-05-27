@@ -1,0 +1,11 @@
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\02.LiskovSOLIDexercise\01.Logger\bin\Debug\netcoreapp2.0\01.Logger.deps.json
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\02.LiskovSOLIDexercise\01.Logger\bin\Debug\netcoreapp2.0\01.Logger.runtimeconfig.json
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\02.LiskovSOLIDexercise\01.Logger\bin\Debug\netcoreapp2.0\01.Logger.runtimeconfig.dev.json
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\02.LiskovSOLIDexercise\01.Logger\bin\Debug\netcoreapp2.0\01.Logger.dll
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\02.LiskovSOLIDexercise\01.Logger\bin\Debug\netcoreapp2.0\01.Logger.pdb
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\02.LiskovSOLIDexercise\01.Logger\obj\Debug\netcoreapp2.0\01.Logger.csprojResolveAssemblyReference.cache
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\02.LiskovSOLIDexercise\01.Logger\obj\Debug\netcoreapp2.0\01.Logger.csproj.CoreCompileInputs.cache
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\02.LiskovSOLIDexercise\01.Logger\obj\Debug\netcoreapp2.0\01.Logger.AssemblyInfoInputs.cache
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\02.LiskovSOLIDexercise\01.Logger\obj\Debug\netcoreapp2.0\01.Logger.AssemblyInfo.cs
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\02.LiskovSOLIDexercise\01.Logger\obj\Debug\netcoreapp2.0\01.Logger.dll
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\02.LiskovSOLIDexercise\01.Logger\obj\Debug\netcoreapp2.0\01.Logger.pdb

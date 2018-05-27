@@ -1,0 +1,17 @@
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\21.ExamRetake28042018\Travel.Tests\bin\Debug\netcoreapp2.0\NUnit3.TestAdapter.dll
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\21.ExamRetake28042018\Travel.Tests\bin\Debug\netcoreapp2.0\NUnit3.TestAdapter.pdb
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\21.ExamRetake28042018\Travel.Tests\bin\Debug\netcoreapp2.0\nunit.engine.netstandard.dll
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\21.ExamRetake28042018\Travel.Tests\bin\Debug\netcoreapp2.0\Mono.Cecil.dll
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\21.ExamRetake28042018\Travel.Tests\bin\Debug\netcoreapp2.0\Travel.Tests.deps.json
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\21.ExamRetake28042018\Travel.Tests\bin\Debug\netcoreapp2.0\Travel.Tests.runtimeconfig.json
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\21.ExamRetake28042018\Travel.Tests\bin\Debug\netcoreapp2.0\Travel.Tests.runtimeconfig.dev.json
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\21.ExamRetake28042018\Travel.Tests\bin\Debug\netcoreapp2.0\Travel.Tests.dll
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\21.ExamRetake28042018\Travel.Tests\bin\Debug\netcoreapp2.0\Travel.Tests.pdb
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\21.ExamRetake28042018\Travel.Tests\bin\Debug\netcoreapp2.0\Travel.dll
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\21.ExamRetake28042018\Travel.Tests\bin\Debug\netcoreapp2.0\Travel.pdb
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\21.ExamRetake28042018\Travel.Tests\obj\Debug\netcoreapp2.0\Travel.Tests.csprojResolveAssemblyReference.cache
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\21.ExamRetake28042018\Travel.Tests\obj\Debug\netcoreapp2.0\Travel.Tests.csproj.CoreCompileInputs.cache
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\21.ExamRetake28042018\Travel.Tests\obj\Debug\netcoreapp2.0\Travel.Tests.AssemblyInfoInputs.cache
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\21.ExamRetake28042018\Travel.Tests\obj\Debug\netcoreapp2.0\Travel.Tests.AssemblyInfo.cs
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\21.ExamRetake28042018\Travel.Tests\obj\Debug\netcoreapp2.0\Travel.Tests.dll
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\21.ExamRetake28042018\Travel.Tests\obj\Debug\netcoreapp2.0\Travel.Tests.pdb

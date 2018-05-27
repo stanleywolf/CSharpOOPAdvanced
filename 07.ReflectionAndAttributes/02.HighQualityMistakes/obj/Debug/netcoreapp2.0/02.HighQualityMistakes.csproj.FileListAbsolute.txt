@@ -1,0 +1,11 @@
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\07.ReflectionAndAttributes\02.HighQualityMistakes\bin\Debug\netcoreapp2.0\02.HighQualityMistakes.deps.json
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\07.ReflectionAndAttributes\02.HighQualityMistakes\bin\Debug\netcoreapp2.0\02.HighQualityMistakes.runtimeconfig.json
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\07.ReflectionAndAttributes\02.HighQualityMistakes\bin\Debug\netcoreapp2.0\02.HighQualityMistakes.runtimeconfig.dev.json
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\07.ReflectionAndAttributes\02.HighQualityMistakes\bin\Debug\netcoreapp2.0\02.HighQualityMistakes.dll
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\07.ReflectionAndAttributes\02.HighQualityMistakes\bin\Debug\netcoreapp2.0\02.HighQualityMistakes.pdb
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\07.ReflectionAndAttributes\02.HighQualityMistakes\obj\Debug\netcoreapp2.0\02.HighQualityMistakes.csprojResolveAssemblyReference.cache
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\07.ReflectionAndAttributes\02.HighQualityMistakes\obj\Debug\netcoreapp2.0\02.HighQualityMistakes.csproj.CoreCompileInputs.cache
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\07.ReflectionAndAttributes\02.HighQualityMistakes\obj\Debug\netcoreapp2.0\02.HighQualityMistakes.AssemblyInfoInputs.cache
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\07.ReflectionAndAttributes\02.HighQualityMistakes\obj\Debug\netcoreapp2.0\02.HighQualityMistakes.AssemblyInfo.cs
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\07.ReflectionAndAttributes\02.HighQualityMistakes\obj\Debug\netcoreapp2.0\02.HighQualityMistakes.dll
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\07.ReflectionAndAttributes\02.HighQualityMistakes\obj\Debug\netcoreapp2.0\02.HighQualityMistakes.pdb

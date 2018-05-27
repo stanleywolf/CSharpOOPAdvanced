@@ -1,0 +1,17 @@
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\18.MyExam20042018\FestivalManager.Tests\bin\Debug\netcoreapp2.0\NUnit3.TestAdapter.dll
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\18.MyExam20042018\FestivalManager.Tests\bin\Debug\netcoreapp2.0\NUnit3.TestAdapter.pdb
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\18.MyExam20042018\FestivalManager.Tests\bin\Debug\netcoreapp2.0\nunit.engine.netstandard.dll
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\18.MyExam20042018\FestivalManager.Tests\bin\Debug\netcoreapp2.0\Mono.Cecil.dll
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\18.MyExam20042018\FestivalManager.Tests\bin\Debug\netcoreapp2.0\FestivalManager.Tests.deps.json
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\18.MyExam20042018\FestivalManager.Tests\bin\Debug\netcoreapp2.0\FestivalManager.Tests.runtimeconfig.json
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\18.MyExam20042018\FestivalManager.Tests\bin\Debug\netcoreapp2.0\FestivalManager.Tests.runtimeconfig.dev.json
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\18.MyExam20042018\FestivalManager.Tests\bin\Debug\netcoreapp2.0\FestivalManager.Tests.dll
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\18.MyExam20042018\FestivalManager.Tests\bin\Debug\netcoreapp2.0\FestivalManager.Tests.pdb
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\18.MyExam20042018\FestivalManager.Tests\obj\Debug\netcoreapp2.0\FestivalManager.Tests.csprojResolveAssemblyReference.cache
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\18.MyExam20042018\FestivalManager.Tests\obj\Debug\netcoreapp2.0\FestivalManager.Tests.csproj.CoreCompileInputs.cache
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\18.MyExam20042018\FestivalManager.Tests\obj\Debug\netcoreapp2.0\FestivalManager.Tests.AssemblyInfoInputs.cache
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\18.MyExam20042018\FestivalManager.Tests\obj\Debug\netcoreapp2.0\FestivalManager.Tests.AssemblyInfo.cs
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\18.MyExam20042018\FestivalManager.Tests\obj\Debug\netcoreapp2.0\FestivalManager.Tests.dll
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\18.MyExam20042018\FestivalManager.Tests\obj\Debug\netcoreapp2.0\FestivalManager.Tests.pdb
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\18.MyExam20042018\FestivalManager.Tests\bin\Debug\netcoreapp2.0\FestivalManager.dll
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\18.MyExam20042018\FestivalManager.Tests\bin\Debug\netcoreapp2.0\FestivalManager.pdb

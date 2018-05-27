@@ -1,0 +1,11 @@
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\07.ReflectionAndAttributes\04.Collector\bin\Debug\netcoreapp2.0\04.Collector.deps.json
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\07.ReflectionAndAttributes\04.Collector\bin\Debug\netcoreapp2.0\04.Collector.runtimeconfig.json
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\07.ReflectionAndAttributes\04.Collector\bin\Debug\netcoreapp2.0\04.Collector.runtimeconfig.dev.json
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\07.ReflectionAndAttributes\04.Collector\bin\Debug\netcoreapp2.0\04.Collector.dll
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\07.ReflectionAndAttributes\04.Collector\bin\Debug\netcoreapp2.0\04.Collector.pdb
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\07.ReflectionAndAttributes\04.Collector\obj\Debug\netcoreapp2.0\04.Collector.csprojResolveAssemblyReference.cache
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\07.ReflectionAndAttributes\04.Collector\obj\Debug\netcoreapp2.0\04.Collector.csproj.CoreCompileInputs.cache
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\07.ReflectionAndAttributes\04.Collector\obj\Debug\netcoreapp2.0\04.Collector.AssemblyInfoInputs.cache
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\07.ReflectionAndAttributes\04.Collector\obj\Debug\netcoreapp2.0\04.Collector.AssemblyInfo.cs
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\07.ReflectionAndAttributes\04.Collector\obj\Debug\netcoreapp2.0\04.Collector.dll
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\07.ReflectionAndAttributes\04.Collector\obj\Debug\netcoreapp2.0\04.Collector.pdb

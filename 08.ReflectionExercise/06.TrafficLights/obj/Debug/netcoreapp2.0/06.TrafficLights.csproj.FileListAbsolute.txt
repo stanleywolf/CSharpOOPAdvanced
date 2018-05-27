@@ -1,0 +1,11 @@
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\08.ReflectionExercise\06.TrafficLights\bin\Debug\netcoreapp2.0\06.TrafficLights.deps.json
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\08.ReflectionExercise\06.TrafficLights\bin\Debug\netcoreapp2.0\06.TrafficLights.runtimeconfig.json
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\08.ReflectionExercise\06.TrafficLights\bin\Debug\netcoreapp2.0\06.TrafficLights.runtimeconfig.dev.json
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\08.ReflectionExercise\06.TrafficLights\bin\Debug\netcoreapp2.0\06.TrafficLights.dll
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\08.ReflectionExercise\06.TrafficLights\bin\Debug\netcoreapp2.0\06.TrafficLights.pdb
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\08.ReflectionExercise\06.TrafficLights\obj\Debug\netcoreapp2.0\06.TrafficLights.csproj.CoreCompileInputs.cache
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\08.ReflectionExercise\06.TrafficLights\obj\Debug\netcoreapp2.0\06.TrafficLights.AssemblyInfoInputs.cache
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\08.ReflectionExercise\06.TrafficLights\obj\Debug\netcoreapp2.0\06.TrafficLights.AssemblyInfo.cs
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\08.ReflectionExercise\06.TrafficLights\obj\Debug\netcoreapp2.0\06.TrafficLights.dll
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\08.ReflectionExercise\06.TrafficLights\obj\Debug\netcoreapp2.0\06.TrafficLights.pdb
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\08.ReflectionExercise\06.TrafficLights\obj\Debug\netcoreapp2.0\06.TrafficLights.csprojResolveAssemblyReference.cache

@@ -1,0 +1,11 @@
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\03.Generics\01.BoxOfT\bin\Debug\netcoreapp2.0\01.BoxOfT.deps.json
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\03.Generics\01.BoxOfT\bin\Debug\netcoreapp2.0\01.BoxOfT.runtimeconfig.json
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\03.Generics\01.BoxOfT\bin\Debug\netcoreapp2.0\01.BoxOfT.runtimeconfig.dev.json
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\03.Generics\01.BoxOfT\bin\Debug\netcoreapp2.0\01.BoxOfT.dll
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\03.Generics\01.BoxOfT\bin\Debug\netcoreapp2.0\01.BoxOfT.pdb
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\03.Generics\01.BoxOfT\obj\Debug\netcoreapp2.0\01.BoxOfT.csprojResolveAssemblyReference.cache
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\03.Generics\01.BoxOfT\obj\Debug\netcoreapp2.0\01.BoxOfT.csproj.CoreCompileInputs.cache
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\03.Generics\01.BoxOfT\obj\Debug\netcoreapp2.0\01.BoxOfT.AssemblyInfoInputs.cache
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\03.Generics\01.BoxOfT\obj\Debug\netcoreapp2.0\01.BoxOfT.AssemblyInfo.cs
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\03.Generics\01.BoxOfT\obj\Debug\netcoreapp2.0\01.BoxOfT.dll
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\03.Generics\01.BoxOfT\obj\Debug\netcoreapp2.0\01.BoxOfT.pdb

@@ -1,0 +1,15 @@
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\09.UnitTesting\UnitTesterTests\bin\Debug\netcoreapp2.0\UnitTesterTests.deps.json
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\09.UnitTesting\UnitTesterTests\bin\Debug\netcoreapp2.0\UnitTesterTests.dll
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\09.UnitTesting\UnitTesterTests\obj\Debug\netcoreapp2.0\UnitTesterTests.csprojResolveAssemblyReference.cache
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\09.UnitTesting\UnitTesterTests\obj\Debug\netcoreapp2.0\UnitTesterTests.csproj.CoreCompileInputs.cache
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\09.UnitTesting\UnitTesterTests\obj\Debug\netcoreapp2.0\UnitTesterTests.AssemblyInfoInputs.cache
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\09.UnitTesting\UnitTesterTests\obj\Debug\netcoreapp2.0\UnitTesterTests.AssemblyInfo.cs
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\09.UnitTesting\UnitTesterTests\bin\Debug\netcoreapp2.0\NUnit3.TestAdapter.dll
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\09.UnitTesting\UnitTesterTests\bin\Debug\netcoreapp2.0\NUnit3.TestAdapter.pdb
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\09.UnitTesting\UnitTesterTests\bin\Debug\netcoreapp2.0\nunit.engine.netstandard.dll
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\09.UnitTesting\UnitTesterTests\bin\Debug\netcoreapp2.0\Mono.Cecil.dll
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\09.UnitTesting\UnitTesterTests\bin\Debug\netcoreapp2.0\UnitTesterTests.pdb
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\09.UnitTesting\UnitTesterTests\obj\Debug\netcoreapp2.0\UnitTesterTests.dll
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\09.UnitTesting\UnitTesterTests\obj\Debug\netcoreapp2.0\UnitTesterTests.pdb
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\09.UnitTesting\UnitTesterTests\bin\Debug\netcoreapp2.0\UnitTesterTests.runtimeconfig.json
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\09.UnitTesting\UnitTesterTests\bin\Debug\netcoreapp2.0\UnitTesterTests.runtimeconfig.dev.json

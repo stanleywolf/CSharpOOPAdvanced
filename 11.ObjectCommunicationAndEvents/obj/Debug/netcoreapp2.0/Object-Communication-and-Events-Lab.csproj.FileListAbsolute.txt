@@ -1,0 +1,11 @@
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\11.ObjectCommunicationAndEvents\bin\Debug\netcoreapp2.0\Object-Communication-and-Events-Lab.deps.json
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\11.ObjectCommunicationAndEvents\bin\Debug\netcoreapp2.0\Object-Communication-and-Events-Lab.runtimeconfig.json
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\11.ObjectCommunicationAndEvents\bin\Debug\netcoreapp2.0\Object-Communication-and-Events-Lab.runtimeconfig.dev.json
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\11.ObjectCommunicationAndEvents\bin\Debug\netcoreapp2.0\Object-Communication-and-Events-Lab.dll
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\11.ObjectCommunicationAndEvents\bin\Debug\netcoreapp2.0\Object-Communication-and-Events-Lab.pdb
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\11.ObjectCommunicationAndEvents\obj\Debug\netcoreapp2.0\Object-Communication-and-Events-Lab.csproj.CoreCompileInputs.cache
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\11.ObjectCommunicationAndEvents\obj\Debug\netcoreapp2.0\Object-Communication-and-Events-Lab.AssemblyInfoInputs.cache
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\11.ObjectCommunicationAndEvents\obj\Debug\netcoreapp2.0\Object-Communication-and-Events-Lab.AssemblyInfo.cs
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\11.ObjectCommunicationAndEvents\obj\Debug\netcoreapp2.0\Object-Communication-and-Events-Lab.dll
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\11.ObjectCommunicationAndEvents\obj\Debug\netcoreapp2.0\Object-Communication-and-Events-Lab.pdb
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\11.ObjectCommunicationAndEvents\obj\Debug\netcoreapp2.0\Object-Communication-and-Events-Lab.csprojResolveAssemblyReference.cache

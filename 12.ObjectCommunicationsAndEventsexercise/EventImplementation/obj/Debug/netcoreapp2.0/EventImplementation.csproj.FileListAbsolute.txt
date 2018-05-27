@@ -1,0 +1,11 @@
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\12.ObjectCommunicationsAndEventsexercise\EventImplementation\bin\Debug\netcoreapp2.0\EventImplementation.deps.json
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\12.ObjectCommunicationsAndEventsexercise\EventImplementation\bin\Debug\netcoreapp2.0\EventImplementation.runtimeconfig.json
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\12.ObjectCommunicationsAndEventsexercise\EventImplementation\bin\Debug\netcoreapp2.0\EventImplementation.runtimeconfig.dev.json
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\12.ObjectCommunicationsAndEventsexercise\EventImplementation\bin\Debug\netcoreapp2.0\EventImplementation.dll
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\12.ObjectCommunicationsAndEventsexercise\EventImplementation\bin\Debug\netcoreapp2.0\EventImplementation.pdb
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\12.ObjectCommunicationsAndEventsexercise\EventImplementation\obj\Debug\netcoreapp2.0\EventImplementation.csprojResolveAssemblyReference.cache
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\12.ObjectCommunicationsAndEventsexercise\EventImplementation\obj\Debug\netcoreapp2.0\EventImplementation.csproj.CoreCompileInputs.cache
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\12.ObjectCommunicationsAndEventsexercise\EventImplementation\obj\Debug\netcoreapp2.0\EventImplementation.AssemblyInfoInputs.cache
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\12.ObjectCommunicationsAndEventsexercise\EventImplementation\obj\Debug\netcoreapp2.0\EventImplementation.AssemblyInfo.cs
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\12.ObjectCommunicationsAndEventsexercise\EventImplementation\obj\Debug\netcoreapp2.0\EventImplementation.dll
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\12.ObjectCommunicationsAndEventsexercise\EventImplementation\obj\Debug\netcoreapp2.0\EventImplementation.pdb

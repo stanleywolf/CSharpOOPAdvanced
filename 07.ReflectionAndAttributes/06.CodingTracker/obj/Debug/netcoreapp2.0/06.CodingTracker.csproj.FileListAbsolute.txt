@@ -1,0 +1,10 @@
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\07.ReflectionAndAttributes\06.CodingTracker\bin\Debug\netcoreapp2.0\06.CodingTracker.deps.json
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\07.ReflectionAndAttributes\06.CodingTracker\bin\Debug\netcoreapp2.0\06.CodingTracker.runtimeconfig.json
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\07.ReflectionAndAttributes\06.CodingTracker\bin\Debug\netcoreapp2.0\06.CodingTracker.runtimeconfig.dev.json
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\07.ReflectionAndAttributes\06.CodingTracker\bin\Debug\netcoreapp2.0\06.CodingTracker.dll
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\07.ReflectionAndAttributes\06.CodingTracker\bin\Debug\netcoreapp2.0\06.CodingTracker.pdb
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\07.ReflectionAndAttributes\06.CodingTracker\obj\Debug\netcoreapp2.0\06.CodingTracker.csproj.CoreCompileInputs.cache
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\07.ReflectionAndAttributes\06.CodingTracker\obj\Debug\netcoreapp2.0\06.CodingTracker.AssemblyInfoInputs.cache
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\07.ReflectionAndAttributes\06.CodingTracker\obj\Debug\netcoreapp2.0\06.CodingTracker.AssemblyInfo.cs
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\07.ReflectionAndAttributes\06.CodingTracker\obj\Debug\netcoreapp2.0\06.CodingTracker.dll
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\07.ReflectionAndAttributes\06.CodingTracker\obj\Debug\netcoreapp2.0\06.CodingTracker.pdb

@@ -1,0 +1,11 @@
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\03.Generics\02.GenericArrayCreator\bin\Debug\netcoreapp2.0\02.GenericArrayCreator.deps.json
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\03.Generics\02.GenericArrayCreator\bin\Debug\netcoreapp2.0\02.GenericArrayCreator.runtimeconfig.json
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\03.Generics\02.GenericArrayCreator\bin\Debug\netcoreapp2.0\02.GenericArrayCreator.runtimeconfig.dev.json
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\03.Generics\02.GenericArrayCreator\bin\Debug\netcoreapp2.0\02.GenericArrayCreator.dll
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\03.Generics\02.GenericArrayCreator\bin\Debug\netcoreapp2.0\02.GenericArrayCreator.pdb
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\03.Generics\02.GenericArrayCreator\obj\Debug\netcoreapp2.0\02.GenericArrayCreator.csprojResolveAssemblyReference.cache
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\03.Generics\02.GenericArrayCreator\obj\Debug\netcoreapp2.0\02.GenericArrayCreator.csproj.CoreCompileInputs.cache
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\03.Generics\02.GenericArrayCreator\obj\Debug\netcoreapp2.0\02.GenericArrayCreator.AssemblyInfoInputs.cache
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\03.Generics\02.GenericArrayCreator\obj\Debug\netcoreapp2.0\02.GenericArrayCreator.AssemblyInfo.cs
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\03.Generics\02.GenericArrayCreator\obj\Debug\netcoreapp2.0\02.GenericArrayCreator.dll
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\03.Generics\02.GenericArrayCreator\obj\Debug\netcoreapp2.0\02.GenericArrayCreator.pdb

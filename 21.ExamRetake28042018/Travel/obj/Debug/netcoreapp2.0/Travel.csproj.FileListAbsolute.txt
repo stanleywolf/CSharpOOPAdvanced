@@ -1,0 +1,11 @@
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\21.ExamRetake28042018\Travel\obj\Debug\netcoreapp2.0\Travel.csprojResolveAssemblyReference.cache
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\21.ExamRetake28042018\Travel\obj\Debug\netcoreapp2.0\Travel.csproj.CoreCompileInputs.cache
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\21.ExamRetake28042018\Travel\obj\Debug\netcoreapp2.0\Travel.AssemblyInfoInputs.cache
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\21.ExamRetake28042018\Travel\obj\Debug\netcoreapp2.0\Travel.AssemblyInfo.cs
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\21.ExamRetake28042018\Travel\bin\Debug\netcoreapp2.0\Travel.deps.json
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\21.ExamRetake28042018\Travel\bin\Debug\netcoreapp2.0\Travel.runtimeconfig.json
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\21.ExamRetake28042018\Travel\bin\Debug\netcoreapp2.0\Travel.runtimeconfig.dev.json
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\21.ExamRetake28042018\Travel\bin\Debug\netcoreapp2.0\Travel.dll
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\21.ExamRetake28042018\Travel\bin\Debug\netcoreapp2.0\Travel.pdb
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\21.ExamRetake28042018\Travel\obj\Debug\netcoreapp2.0\Travel.dll
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\21.ExamRetake28042018\Travel\obj\Debug\netcoreapp2.0\Travel.pdb

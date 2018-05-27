@@ -1,0 +1,11 @@
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\05.IteratorsAndComparators\02.LibraryIterator\bin\Debug\netcoreapp2.0\02.LibraryIterator.deps.json
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\05.IteratorsAndComparators\02.LibraryIterator\bin\Debug\netcoreapp2.0\02.LibraryIterator.runtimeconfig.json
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\05.IteratorsAndComparators\02.LibraryIterator\bin\Debug\netcoreapp2.0\02.LibraryIterator.runtimeconfig.dev.json
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\05.IteratorsAndComparators\02.LibraryIterator\bin\Debug\netcoreapp2.0\02.LibraryIterator.dll
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\05.IteratorsAndComparators\02.LibraryIterator\bin\Debug\netcoreapp2.0\02.LibraryIterator.pdb
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\05.IteratorsAndComparators\02.LibraryIterator\obj\Debug\netcoreapp2.0\02.LibraryIterator.csprojResolveAssemblyReference.cache
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\05.IteratorsAndComparators\02.LibraryIterator\obj\Debug\netcoreapp2.0\02.LibraryIterator.csproj.CoreCompileInputs.cache
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\05.IteratorsAndComparators\02.LibraryIterator\obj\Debug\netcoreapp2.0\02.LibraryIterator.AssemblyInfoInputs.cache
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\05.IteratorsAndComparators\02.LibraryIterator\obj\Debug\netcoreapp2.0\02.LibraryIterator.AssemblyInfo.cs
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\05.IteratorsAndComparators\02.LibraryIterator\obj\Debug\netcoreapp2.0\02.LibraryIterator.dll
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\05.IteratorsAndComparators\02.LibraryIterator\obj\Debug\netcoreapp2.0\02.LibraryIterator.pdb

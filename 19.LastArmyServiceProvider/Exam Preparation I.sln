@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2037
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LastArmy", "LastArmy\LastArmy.csproj", "{988E2920-DC4E-441C-87DA-88F367855A86}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LastArmy.Tests", "JudjeTests\LastArmy.Tests.csproj", "{952B48E2-3741-4C1E-9A91-0826486B054C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{988E2920-DC4E-441C-87DA-88F367855A86}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{988E2920-DC4E-441C-87DA-88F367855A86}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{988E2920-DC4E-441C-87DA-88F367855A86}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{988E2920-DC4E-441C-87DA-88F367855A86}.Release|Any CPU.Build.0 = Release|Any CPU
+		{952B48E2-3741-4C1E-9A91-0826486B054C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{952B48E2-3741-4C1E-9A91-0826486B054C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{952B48E2-3741-4C1E-9A91-0826486B054C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{952B48E2-3741-4C1E-9A91-0826486B054C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3F3EC705-166B-47A5-BC86-E29D1F91E05F}
+	EndGlobalSection
+EndGlobal

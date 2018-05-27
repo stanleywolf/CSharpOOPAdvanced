@@ -1,0 +1,17 @@
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\09.UnitTesting\UnitTesterTests\bin\Debug\netcoreapp2.0\NUnit3.TestAdapter.dll
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\09.UnitTesting\UnitTesterTests\bin\Debug\netcoreapp2.0\NUnit3.TestAdapter.pdb
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\09.UnitTesting\UnitTesterTests\bin\Debug\netcoreapp2.0\nunit.engine.netstandard.dll
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\09.UnitTesting\UnitTesterTests\bin\Debug\netcoreapp2.0\Mono.Cecil.dll
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\09.UnitTesting\UnitTesterTests\bin\Debug\netcoreapp2.0\01.ConsoleAppTests.deps.json
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\09.UnitTesting\UnitTesterTests\bin\Debug\netcoreapp2.0\01.ConsoleAppTests.runtimeconfig.json
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\09.UnitTesting\UnitTesterTests\bin\Debug\netcoreapp2.0\01.ConsoleAppTests.runtimeconfig.dev.json
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\09.UnitTesting\UnitTesterTests\bin\Debug\netcoreapp2.0\01.ConsoleAppTests.dll
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\09.UnitTesting\UnitTesterTests\bin\Debug\netcoreapp2.0\01.ConsoleAppTests.pdb
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\09.UnitTesting\UnitTesterTests\obj\Debug\netcoreapp2.0\01.ConsoleAppTests.csproj.CoreCompileInputs.cache
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\09.UnitTesting\UnitTesterTests\obj\Debug\netcoreapp2.0\01.ConsoleAppTests.AssemblyInfoInputs.cache
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\09.UnitTesting\UnitTesterTests\obj\Debug\netcoreapp2.0\01.ConsoleAppTests.AssemblyInfo.cs
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\09.UnitTesting\UnitTesterTests\obj\Debug\netcoreapp2.0\01.ConsoleAppTests.dll
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\09.UnitTesting\UnitTesterTests\obj\Debug\netcoreapp2.0\01.ConsoleAppTests.pdb
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\09.UnitTesting\UnitTesterTests\bin\Debug\netcoreapp2.0\01.ConsoleApp.dll
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\09.UnitTesting\UnitTesterTests\bin\Debug\netcoreapp2.0\01.ConsoleApp.pdb
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\09.UnitTesting\UnitTesterTests\obj\Debug\netcoreapp2.0\01.ConsoleAppTests.csprojResolveAssemblyReference.cache

@@ -1,0 +1,11 @@
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\07.ReflectionAndAttributes\03.MissionPrivateImpossible\bin\Debug\netcoreapp2.0\03.MissionPrivateImpossible.deps.json
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\07.ReflectionAndAttributes\03.MissionPrivateImpossible\bin\Debug\netcoreapp2.0\03.MissionPrivateImpossible.runtimeconfig.json
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\07.ReflectionAndAttributes\03.MissionPrivateImpossible\bin\Debug\netcoreapp2.0\03.MissionPrivateImpossible.runtimeconfig.dev.json
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\07.ReflectionAndAttributes\03.MissionPrivateImpossible\bin\Debug\netcoreapp2.0\03.MissionPrivateImpossible.dll
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\07.ReflectionAndAttributes\03.MissionPrivateImpossible\bin\Debug\netcoreapp2.0\03.MissionPrivateImpossible.pdb
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\07.ReflectionAndAttributes\03.MissionPrivateImpossible\obj\Debug\netcoreapp2.0\03.MissionPrivateImpossible.csprojResolveAssemblyReference.cache
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\07.ReflectionAndAttributes\03.MissionPrivateImpossible\obj\Debug\netcoreapp2.0\03.MissionPrivateImpossible.csproj.CoreCompileInputs.cache
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\07.ReflectionAndAttributes\03.MissionPrivateImpossible\obj\Debug\netcoreapp2.0\03.MissionPrivateImpossible.AssemblyInfoInputs.cache
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\07.ReflectionAndAttributes\03.MissionPrivateImpossible\obj\Debug\netcoreapp2.0\03.MissionPrivateImpossible.AssemblyInfo.cs
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\07.ReflectionAndAttributes\03.MissionPrivateImpossible\obj\Debug\netcoreapp2.0\03.MissionPrivateImpossible.dll
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\07.ReflectionAndAttributes\03.MissionPrivateImpossible\obj\Debug\netcoreapp2.0\03.MissionPrivateImpossible.pdb

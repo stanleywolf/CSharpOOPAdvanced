@@ -1,0 +1,11 @@
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\12.ObjectCommunicationsAndEventsexercise\05.KingGambitExtention\bin\Debug\netcoreapp2.0\05.KingGambitExtention.deps.json
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\12.ObjectCommunicationsAndEventsexercise\05.KingGambitExtention\bin\Debug\netcoreapp2.0\05.KingGambitExtention.runtimeconfig.json
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\12.ObjectCommunicationsAndEventsexercise\05.KingGambitExtention\bin\Debug\netcoreapp2.0\05.KingGambitExtention.runtimeconfig.dev.json
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\12.ObjectCommunicationsAndEventsexercise\05.KingGambitExtention\bin\Debug\netcoreapp2.0\05.KingGambitExtention.dll
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\12.ObjectCommunicationsAndEventsexercise\05.KingGambitExtention\bin\Debug\netcoreapp2.0\05.KingGambitExtention.pdb
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\12.ObjectCommunicationsAndEventsexercise\05.KingGambitExtention\obj\Debug\netcoreapp2.0\05.KingGambitExtention.csprojResolveAssemblyReference.cache
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\12.ObjectCommunicationsAndEventsexercise\05.KingGambitExtention\obj\Debug\netcoreapp2.0\05.KingGambitExtention.csproj.CoreCompileInputs.cache
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\12.ObjectCommunicationsAndEventsexercise\05.KingGambitExtention\obj\Debug\netcoreapp2.0\05.KingGambitExtention.AssemblyInfoInputs.cache
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\12.ObjectCommunicationsAndEventsexercise\05.KingGambitExtention\obj\Debug\netcoreapp2.0\05.KingGambitExtention.AssemblyInfo.cs
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\12.ObjectCommunicationsAndEventsexercise\05.KingGambitExtention\obj\Debug\netcoreapp2.0\05.KingGambitExtention.dll
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\12.ObjectCommunicationsAndEventsexercise\05.KingGambitExtention\obj\Debug\netcoreapp2.0\05.KingGambitExtention.pdb

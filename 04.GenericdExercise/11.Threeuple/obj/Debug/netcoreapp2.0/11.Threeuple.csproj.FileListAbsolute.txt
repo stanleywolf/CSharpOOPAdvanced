@@ -1,0 +1,11 @@
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\04.GenericdExercise\11.Threeuple\bin\Debug\netcoreapp2.0\11.Threeuple.deps.json
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\04.GenericdExercise\11.Threeuple\bin\Debug\netcoreapp2.0\11.Threeuple.runtimeconfig.json
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\04.GenericdExercise\11.Threeuple\bin\Debug\netcoreapp2.0\11.Threeuple.runtimeconfig.dev.json
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\04.GenericdExercise\11.Threeuple\bin\Debug\netcoreapp2.0\11.Threeuple.dll
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\04.GenericdExercise\11.Threeuple\bin\Debug\netcoreapp2.0\11.Threeuple.pdb
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\04.GenericdExercise\11.Threeuple\obj\Debug\netcoreapp2.0\11.Threeuple.csprojResolveAssemblyReference.cache
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\04.GenericdExercise\11.Threeuple\obj\Debug\netcoreapp2.0\11.Threeuple.csproj.CoreCompileInputs.cache
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\04.GenericdExercise\11.Threeuple\obj\Debug\netcoreapp2.0\11.Threeuple.AssemblyInfoInputs.cache
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\04.GenericdExercise\11.Threeuple\obj\Debug\netcoreapp2.0\11.Threeuple.AssemblyInfo.cs
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\04.GenericdExercise\11.Threeuple\obj\Debug\netcoreapp2.0\11.Threeuple.dll
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\04.GenericdExercise\11.Threeuple\obj\Debug\netcoreapp2.0\11.Threeuple.pdb

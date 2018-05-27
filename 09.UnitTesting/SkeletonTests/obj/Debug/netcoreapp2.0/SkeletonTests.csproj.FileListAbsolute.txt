@@ -1,0 +1,17 @@
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\09.UnitTesting\SkeletonTests\bin\Debug\netcoreapp2.0\SkeletonTests.deps.json
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\09.UnitTesting\SkeletonTests\bin\Debug\netcoreapp2.0\SkeletonTests.dll
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\09.UnitTesting\SkeletonTests\obj\Debug\netcoreapp2.0\SkeletonTests.csproj.CoreCompileInputs.cache
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\09.UnitTesting\SkeletonTests\obj\Debug\netcoreapp2.0\SkeletonTests.AssemblyInfoInputs.cache
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\09.UnitTesting\SkeletonTests\obj\Debug\netcoreapp2.0\SkeletonTests.AssemblyInfo.cs
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\09.UnitTesting\SkeletonTests\obj\Debug\netcoreapp2.0\SkeletonTests.csprojResolveAssemblyReference.cache
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\09.UnitTesting\SkeletonTests\bin\Debug\netcoreapp2.0\NUnit3.TestAdapter.dll
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\09.UnitTesting\SkeletonTests\bin\Debug\netcoreapp2.0\NUnit3.TestAdapter.pdb
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\09.UnitTesting\SkeletonTests\bin\Debug\netcoreapp2.0\nunit.engine.netstandard.dll
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\09.UnitTesting\SkeletonTests\bin\Debug\netcoreapp2.0\Mono.Cecil.dll
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\09.UnitTesting\SkeletonTests\bin\Debug\netcoreapp2.0\SkeletonTests.runtimeconfig.json
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\09.UnitTesting\SkeletonTests\bin\Debug\netcoreapp2.0\SkeletonTests.runtimeconfig.dev.json
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\09.UnitTesting\SkeletonTests\bin\Debug\netcoreapp2.0\SkeletonTests.pdb
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\09.UnitTesting\SkeletonTests\bin\Debug\netcoreapp2.0\Skeleton.dll
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\09.UnitTesting\SkeletonTests\bin\Debug\netcoreapp2.0\Skeleton.pdb
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\09.UnitTesting\SkeletonTests\obj\Debug\netcoreapp2.0\SkeletonTests.dll
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\09.UnitTesting\SkeletonTests\obj\Debug\netcoreapp2.0\SkeletonTests.pdb

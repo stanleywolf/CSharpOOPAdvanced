@@ -1,0 +1,11 @@
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\05.IteratorsAndComparators\03.ComparableBook\bin\Debug\netcoreapp2.0\03.ComparableBook.deps.json
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\05.IteratorsAndComparators\03.ComparableBook\bin\Debug\netcoreapp2.0\03.ComparableBook.runtimeconfig.json
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\05.IteratorsAndComparators\03.ComparableBook\bin\Debug\netcoreapp2.0\03.ComparableBook.runtimeconfig.dev.json
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\05.IteratorsAndComparators\03.ComparableBook\bin\Debug\netcoreapp2.0\03.ComparableBook.dll
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\05.IteratorsAndComparators\03.ComparableBook\bin\Debug\netcoreapp2.0\03.ComparableBook.pdb
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\05.IteratorsAndComparators\03.ComparableBook\obj\Debug\netcoreapp2.0\03.ComparableBook.csprojResolveAssemblyReference.cache
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\05.IteratorsAndComparators\03.ComparableBook\obj\Debug\netcoreapp2.0\03.ComparableBook.csproj.CoreCompileInputs.cache
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\05.IteratorsAndComparators\03.ComparableBook\obj\Debug\netcoreapp2.0\03.ComparableBook.AssemblyInfoInputs.cache
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\05.IteratorsAndComparators\03.ComparableBook\obj\Debug\netcoreapp2.0\03.ComparableBook.AssemblyInfo.cs
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\05.IteratorsAndComparators\03.ComparableBook\obj\Debug\netcoreapp2.0\03.ComparableBook.dll
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\05.IteratorsAndComparators\03.ComparableBook\obj\Debug\netcoreapp2.0\03.ComparableBook.pdb

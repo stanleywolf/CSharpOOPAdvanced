@@ -1,0 +1,11 @@
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\04.GenericdExercise\09.CustomListIterator\bin\Debug\netcoreapp2.0\09.CustomListIterator.deps.json
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\04.GenericdExercise\09.CustomListIterator\bin\Debug\netcoreapp2.0\09.CustomListIterator.runtimeconfig.json
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\04.GenericdExercise\09.CustomListIterator\bin\Debug\netcoreapp2.0\09.CustomListIterator.runtimeconfig.dev.json
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\04.GenericdExercise\09.CustomListIterator\bin\Debug\netcoreapp2.0\09.CustomListIterator.dll
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\04.GenericdExercise\09.CustomListIterator\bin\Debug\netcoreapp2.0\09.CustomListIterator.pdb
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\04.GenericdExercise\09.CustomListIterator\obj\Debug\netcoreapp2.0\09.CustomListIterator.csproj.CoreCompileInputs.cache
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\04.GenericdExercise\09.CustomListIterator\obj\Debug\netcoreapp2.0\09.CustomListIterator.AssemblyInfoInputs.cache
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\04.GenericdExercise\09.CustomListIterator\obj\Debug\netcoreapp2.0\09.CustomListIterator.AssemblyInfo.cs
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\04.GenericdExercise\09.CustomListIterator\obj\Debug\netcoreapp2.0\09.CustomListIterator.dll
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\04.GenericdExercise\09.CustomListIterator\obj\Debug\netcoreapp2.0\09.CustomListIterator.pdb
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\04.GenericdExercise\09.CustomListIterator\obj\Debug\netcoreapp2.0\09.CustomListIterator.csprojResolveAssemblyReference.cache

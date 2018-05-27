@@ -1,0 +1,11 @@
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\04.GenericdExercise\07.CustomList\bin\Debug\netcoreapp2.0\07.CustomList.deps.json
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\04.GenericdExercise\07.CustomList\bin\Debug\netcoreapp2.0\07.CustomList.runtimeconfig.json
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\04.GenericdExercise\07.CustomList\bin\Debug\netcoreapp2.0\07.CustomList.runtimeconfig.dev.json
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\04.GenericdExercise\07.CustomList\bin\Debug\netcoreapp2.0\07.CustomList.dll
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\04.GenericdExercise\07.CustomList\bin\Debug\netcoreapp2.0\07.CustomList.pdb
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\04.GenericdExercise\07.CustomList\obj\Debug\netcoreapp2.0\07.CustomList.csprojResolveAssemblyReference.cache
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\04.GenericdExercise\07.CustomList\obj\Debug\netcoreapp2.0\07.CustomList.csproj.CoreCompileInputs.cache
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\04.GenericdExercise\07.CustomList\obj\Debug\netcoreapp2.0\07.CustomList.AssemblyInfoInputs.cache
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\04.GenericdExercise\07.CustomList\obj\Debug\netcoreapp2.0\07.CustomList.AssemblyInfo.cs
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\04.GenericdExercise\07.CustomList\obj\Debug\netcoreapp2.0\07.CustomList.dll
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\04.GenericdExercise\07.CustomList\obj\Debug\netcoreapp2.0\07.CustomList.pdb

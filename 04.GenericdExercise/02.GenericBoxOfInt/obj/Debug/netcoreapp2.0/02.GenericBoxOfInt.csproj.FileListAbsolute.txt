@@ -1,0 +1,11 @@
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\04.GenericdExercise\02.GenericBoxOfInt\bin\Debug\netcoreapp2.0\02.GenericBoxOfInt.deps.json
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\04.GenericdExercise\02.GenericBoxOfInt\bin\Debug\netcoreapp2.0\02.GenericBoxOfInt.runtimeconfig.json
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\04.GenericdExercise\02.GenericBoxOfInt\bin\Debug\netcoreapp2.0\02.GenericBoxOfInt.runtimeconfig.dev.json
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\04.GenericdExercise\02.GenericBoxOfInt\bin\Debug\netcoreapp2.0\02.GenericBoxOfInt.dll
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\04.GenericdExercise\02.GenericBoxOfInt\bin\Debug\netcoreapp2.0\02.GenericBoxOfInt.pdb
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\04.GenericdExercise\02.GenericBoxOfInt\obj\Debug\netcoreapp2.0\02.GenericBoxOfInt.csprojResolveAssemblyReference.cache
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\04.GenericdExercise\02.GenericBoxOfInt\obj\Debug\netcoreapp2.0\02.GenericBoxOfInt.csproj.CoreCompileInputs.cache
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\04.GenericdExercise\02.GenericBoxOfInt\obj\Debug\netcoreapp2.0\02.GenericBoxOfInt.AssemblyInfoInputs.cache
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\04.GenericdExercise\02.GenericBoxOfInt\obj\Debug\netcoreapp2.0\02.GenericBoxOfInt.AssemblyInfo.cs
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\04.GenericdExercise\02.GenericBoxOfInt\obj\Debug\netcoreapp2.0\02.GenericBoxOfInt.dll
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\04.GenericdExercise\02.GenericBoxOfInt\obj\Debug\netcoreapp2.0\02.GenericBoxOfInt.pdb

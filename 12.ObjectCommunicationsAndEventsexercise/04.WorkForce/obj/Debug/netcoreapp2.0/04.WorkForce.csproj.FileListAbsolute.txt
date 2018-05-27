@@ -1,0 +1,11 @@
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\12.ObjectCommunicationsAndEventsexercise\04.WorkForce\bin\Debug\netcoreapp2.0\04.WorkForce.deps.json
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\12.ObjectCommunicationsAndEventsexercise\04.WorkForce\bin\Debug\netcoreapp2.0\04.WorkForce.runtimeconfig.json
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\12.ObjectCommunicationsAndEventsexercise\04.WorkForce\bin\Debug\netcoreapp2.0\04.WorkForce.runtimeconfig.dev.json
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\12.ObjectCommunicationsAndEventsexercise\04.WorkForce\bin\Debug\netcoreapp2.0\04.WorkForce.dll
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\12.ObjectCommunicationsAndEventsexercise\04.WorkForce\bin\Debug\netcoreapp2.0\04.WorkForce.pdb
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\12.ObjectCommunicationsAndEventsexercise\04.WorkForce\obj\Debug\netcoreapp2.0\04.WorkForce.csproj.CoreCompileInputs.cache
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\12.ObjectCommunicationsAndEventsexercise\04.WorkForce\obj\Debug\netcoreapp2.0\04.WorkForce.AssemblyInfoInputs.cache
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\12.ObjectCommunicationsAndEventsexercise\04.WorkForce\obj\Debug\netcoreapp2.0\04.WorkForce.AssemblyInfo.cs
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\12.ObjectCommunicationsAndEventsexercise\04.WorkForce\obj\Debug\netcoreapp2.0\04.WorkForce.dll
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\12.ObjectCommunicationsAndEventsexercise\04.WorkForce\obj\Debug\netcoreapp2.0\04.WorkForce.pdb
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\12.ObjectCommunicationsAndEventsexercise\04.WorkForce\obj\Debug\netcoreapp2.0\04.WorkForce.csprojResolveAssemblyReference.cache

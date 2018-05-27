@@ -1,0 +1,11 @@
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\09.UnitTesting\01.ConsoleApp\bin\Debug\netcoreapp2.0\01.ConsoleApp.deps.json
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\09.UnitTesting\01.ConsoleApp\bin\Debug\netcoreapp2.0\01.ConsoleApp.runtimeconfig.json
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\09.UnitTesting\01.ConsoleApp\bin\Debug\netcoreapp2.0\01.ConsoleApp.runtimeconfig.dev.json
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\09.UnitTesting\01.ConsoleApp\bin\Debug\netcoreapp2.0\01.ConsoleApp.dll
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\09.UnitTesting\01.ConsoleApp\bin\Debug\netcoreapp2.0\01.ConsoleApp.pdb
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\09.UnitTesting\01.ConsoleApp\obj\Debug\netcoreapp2.0\01.ConsoleApp.csproj.CoreCompileInputs.cache
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\09.UnitTesting\01.ConsoleApp\obj\Debug\netcoreapp2.0\01.ConsoleApp.AssemblyInfoInputs.cache
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\09.UnitTesting\01.ConsoleApp\obj\Debug\netcoreapp2.0\01.ConsoleApp.AssemblyInfo.cs
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\09.UnitTesting\01.ConsoleApp\obj\Debug\netcoreapp2.0\01.ConsoleApp.dll
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\09.UnitTesting\01.ConsoleApp\obj\Debug\netcoreapp2.0\01.ConsoleApp.pdb
+F:\Visual Project\C# Fundamentals\C# OOP Advanced\09.UnitTesting\01.ConsoleApp\obj\Debug\netcoreapp2.0\01.ConsoleApp.csprojResolveAssemblyReference.cache
